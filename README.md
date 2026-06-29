@@ -59,5 +59,5 @@ Using SQLAlchemy sessions context-managers to guarantee that database connection
 
 1. **Clone the Repository:**
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/crypto-analytics-api.git](https://github.com/YOUR_USERNAME/crypto-analytics-api.git)
+   git clone [https://github.com/hoseen25/crypto-analytics-api.git](https://github.com/hoseen25/crypto-analytics-api.git)
    cd crypto-analytics-api
